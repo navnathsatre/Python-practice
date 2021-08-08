@@ -1,0 +1,3 @@
+Opening the file.
+The user entered number is: *
+Closing the file
