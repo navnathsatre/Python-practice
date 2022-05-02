@@ -1,2 +1,2 @@
 # Python-practice
-basics of python learning
+python learning
